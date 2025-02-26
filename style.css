@@ -1,0 +1,256 @@
+.body{
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.pageOne {
+   background-image: url('../Images/bg.jpg');
+   background-size: cover;
+   width: 99.5vw;
+   height: 100vh;
+   margin-left: -1em;
+   margin-right: -1em;
+   margin-top: -1.7em;
+   font-family: "Quicksand", serif;
+}
+
+.pageTwo {
+    background-image: url('../Images/New-kicks.jpg');
+    background-size: cover;
+    width: 99.5vw;
+    height: 100vh;
+    margin-left: -1em;
+    margin-right: -1em;
+    font-family: "Quicksand", serif;
+ }
+
+ .pageThree{
+    background-image: url('../Images/Page-Over3.jpg');
+    background-size: cover;
+    width: 99.5vw;
+    height: 100vh;
+    margin-left: -1em;
+    margin-right: -1em;
+    font-family: "Quicksand", serif;
+ }
+
+ .pageFour{
+    background-image: url('../Images/Page-Over4.jpg');
+    background-size: cover;
+    width: 99.5vw;
+    height: 100vh;
+    margin-left: -1em;
+    margin-right: -1em;
+    font-family: "Quicksand", serif;
+ }
+
+ .pageFive{
+    background-image: url('../Images/Page-Over5.jpg');
+    background-size: cover;
+    width: 99.5vw;
+    height: 100vh;
+    margin-left: -1em;
+    margin-right: -1em;
+    font-family: "Quicksand", serif;
+ }
+ 
+
+.headText{
+    color: white;
+    font-size: 2em;
+    margin-left: 2em;
+    padding-top: 1em;
+    font-weight: 900;
+    font-family: "Quicksand", serif;
+}
+
+.getStarted{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: white;
+    margin: 0 auto;
+    width: 35em;
+    border-radius: 5px;
+    margin-top: 6em;
+}
+
+.header{
+    padding-top: 1em;
+    width: 13em;
+    text-align: center;
+}
+
+.claim{
+    font-size: 0.8em;
+    padding-bottom: 3em;
+}
+
+.mailSection{
+    display: flex;
+    gap: 2em;
+    align-items: center;
+    padding-bottom: 1.5em;
+    padding-top: 1em;
+}
+
+.startNow{
+    color: white;
+    font-weight: 200;
+    font-size: 0.9em;
+    background: rgb(21, 107, 255);
+    border: none;
+    border-radius: 20px;
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 8em;
+    height: 2em;
+}
+
+.mailAddress{
+    color: gray;
+    font-size: 1;
+}
+
+.mailInput {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: none;
+    border-bottom: 2px solid #156BFF;
+    outline: none;
+    background: transparent;
+}
+
+.PageTwoBody{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 10em;
+    margin-left: 10em;
+}
+
+.PageThreeBody{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 10em;
+}
+
+.PageFourBody{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 10em;
+    margin-left: 10em;
+}
+
+.startNow0{
+    color: white;
+    font-weight: 200;
+    font-size: 0.9em;
+    background: rgb(21, 107, 255);
+    border: none;
+    border-radius: 20px;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-top: 1.5em;
+    width: 8em;
+    height: 2em;
+}
+
+.startNow1{
+    color: white;
+    font-weight: 200;
+    font-size: 0.9em;
+    background: rgb(21, 107, 255);
+    border: none;
+    border-radius: 20px;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-top: 1.5em;
+    width: 8em;
+    height: 2em;
+    margin-left: 51em;
+}
+
+.startNow2{
+    color: white;
+    font-weight: 200;
+    font-size: 0.9em;
+    background: rgb(21, 107, 255);
+    border: none;
+    border-radius: 20px;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-top: 1.5em;
+    width: 8em;
+    height: 2em;
+    margin-left: 15.5em;
+}
+
+.info{
+    width: 10em;
+    padding-bottom: -0.2em;
+}
+
+.info0{
+    width: 10em;
+    padding-bottom: -0.2em;
+    margin-top: -1em;
+    padding-top: 1em;
+    padding-left: 23em;
+}
+
+.info1{
+    width: 10em;
+    padding-bottom: -0.2em;
+    margin-top: -1em;
+    padding-top: 7em;
+    padding-left: 7em;
+}
+
+
+.infoContinuation{
+    width: 25em;
+}
+
+.infoContinuation0{
+    width: 20em;
+    margin-left: 46em;
+}    
+
+.infoContinuation1{
+    width: 25em;
+    margin-left: 14em;
+}
+
+.About{
+    /* display: flex;
+    justify-content: center; */
+    margin-top: -1em;
+    font-size: 3em;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 2em;
+    width: 10em;
+    margin: 0 auto;
+}
+
+.getStartedBtn{
+    color: white;
+    font-weight: 200;
+    font-size: 0.9em;
+    background: rgb(21, 107, 255);
+    border: none;
+    border-radius: 20px;
+    margin-top: 1.5em;
+    width: 8em;
+    height: 2.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 2em;
+}
